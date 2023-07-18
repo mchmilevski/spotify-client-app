@@ -1,3 +1,8 @@
+# The Challenge - Building a Spotify Client
+This challenge is perfect for the frontend developers. It focuses on using Spotify’s API to interact with the Spotify service to build an an online client and uses their Web Playback SDK to support playback.
+
+This challange is from John Crickett's coding challanges. Read more [here](https://codingchallenges.fyi/challenges/challenge-spotify/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
